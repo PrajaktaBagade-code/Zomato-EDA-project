@@ -7,7 +7,6 @@ Project Overview:
 Objectives:
 
 • Understand restaurant distribution across countries and cities
-
 • Analyze restaurant ratings and customer voting patterns
 
 • Study cost trends and affordability of restaurants
